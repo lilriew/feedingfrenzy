@@ -1,25 +1,25 @@
-# Feeding Frenzy
-============== 
+# 🐠 Feeding Frenzy
 
-You Can Find The Game Online at  : https://thescorpionsgame.herokuapp.com/
+🎮 Play the game online here:  
+👉 [https://lilriew.itch.io/feeding-frenzy](https://lilriew.itch.io/feeding-frenzy)
 
-Your mission through 3 levels is to feed the fish to get bigger and eat the big fishes.
-you should collect 30 points to accomplish the level and reach the next level.
+---
 
+## 🌊 About the Game
 
- # Our rules are simple :) 
-==============  
+In *Feeding Frenzy*, your mission is to survive through 3 underwater levels by feeding on smaller fish, growing in size, and eventually taking down the big ones.
 
-- not to be eaten by a bigger fish.
-- collect a lot of sea stars because your lives will increase one for each five sea stars.
-- eat the speacial fish at level 2 to make all big fishes smaller than you.
-- try to finish all levels as fast as possible to get our speed badges for every level.
+To progress, you'll need to collect **30 points** in each level.
 
-# Team Members : 
-==============
-  
-1) Mohamed Gomaa 
-2) Hesham Hamada 
-3) Mostafa Hassan 
-4) Ali Elkhatib
-5) Mohamed Khaled 
+---
+
+## 📜 Rules of the Reef
+
+- 🐡 **Avoid being eaten** by bigger fish.
+- ⭐ **Collect sea stars** — every 5 sea stars give you **an extra life**.
+- 🐠 **Eat the special fish** in Level 2 to shrink all the big fish around you.
+- ⏱️ **Finish levels quickly** to earn **Speed Badges**.
+
+---
+
+Have fun surviving the depths and climbing the food chain! 🐟💨
